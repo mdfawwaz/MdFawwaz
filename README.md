@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 ![Fawwaz's github stats](https://github-readme-stats.vercel.app/api?username=mdfawwaz)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfawwaz)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdfawwaz)](https://github.com/mdfawwaz/github-readme-stats)
