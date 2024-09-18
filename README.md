@@ -37,5 +37,4 @@
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdfawwaz&theme=radical)
 
-## 📈 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdfawwaz&theme=react-dark)
+![Total Commits](https://komarev.com/ghpvc/?username=mdfawwaz&color=blue&style=flat-square&label=TOTAL+COMMITS)
