@@ -1,14 +1,23 @@
-<div align="center">
-  <h1>👋 Hi, I'm @MdFawwaz</h1>
-  <p>👀 I'm interested in coding</p>
-  <p>🌱 I'm currently learning high-level languages</p>
-  <p>💞️ I'm looking to collaborate on pull requests and open-source projects</p>
-  <p>📫 How to reach me via mail: mdfawwazuddin@gmail.com</p>
+# Hi 👋, I'm Fawwaz
 
-  <!-- Your GitHub stats and top languages section -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mdfawwaz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfawwaz" />
+### App Developer | Tech Enthusiast | Frontend Developer | Backend Developer
 
-  <!-- Your Skills section -->
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
-</div>
+🔭 I’m currently pursuing my Master's in Computer Science at Illinois Institute of Technology.
+
+🌱 I’m learning MERN Stack and AWS.
+
+💼 I'm looking for internships/Co-op roles for 2024.
+
+📂 All of my projects are available at [My Portfolio](https://yourportfolio.link).
+
+📝 Courses Completed: Cloud Computing, Data Structures, Algorithms, and more.
+
+### Languages and Tools:
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/mdfawwaz)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/mdfawwaz)
+[![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)](https://github.com/mdfawwaz)
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/mdfawwaz)
+
