@@ -1,4 +1,4 @@
-# Hi 👋, I'm Fawwaz
+# Hi 👋, I'm Fawwaz Uddin Mohammed
 
 ### App Developer | Tech Enthusiast | Frontend Developer | Backend Developer
 
