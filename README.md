@@ -31,7 +31,6 @@
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/fawwazuddin-mohammed)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/mdfawwaz)
-![GitHub followers](https://img.shields.io/github/followers/mdfawwaz?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/mdfawwaz?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=mdfawwaz&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
