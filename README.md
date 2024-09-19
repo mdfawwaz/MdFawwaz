@@ -16,9 +16,9 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/mdfawwaz)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/mdfawwaz)
 [![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)](https://github.com/mdfawwaz)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)(https://github.com/mdfawwaz)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)(https://github.com/mdfawwaz)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)(https://github.com/mdfawwaz)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 ### Connect with me:
